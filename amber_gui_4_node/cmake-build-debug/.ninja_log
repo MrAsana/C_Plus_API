@@ -1,0 +1,9 @@
+# ninja log v5
+0	248	1641216334008437489	CMakeFiles/amber_gui_4_node.dir/main.cpp.o	20e56607a17b0103
+0	108	1641216303286935392	CMakeFiles/amber_gui_4_node.dir/udp.c.o	e8a6796f2c87b660
+248	307	1641216334068432766	amber_gui_4_node	d6457c1e42e1ca2c
+1	51	1659156293578853706	CMakeFiles/amber_gui_4_node.dir/udp.c.o	e8a6796f2c87b660
+1	331	1659156293858856339	CMakeFiles/amber_gui_4_node.dir/main.cpp.o	20e56607a17b0103
+331	384	1659156293910856828	amber_gui_4_node	d6457c1e42e1ca2c
+1	194	1659159842264521881	CMakeFiles/amber_gui_4_node.dir/main.cpp.o	20e56607a17b0103
+194	232	1659159842300520053	amber_gui_4_node	d6457c1e42e1ca2c
