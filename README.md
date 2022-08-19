@@ -1,4 +1,13 @@
 该文件夹为各命令号对应的示例代码。
+
+其中gui_5_node的代码中包含了机械臂动态避障的部分(rrt算法进行末端避碰+障碍检测+执行)
+
+其中，rrt算法寻路部分为RRT::planning
+
+障碍检测   七轴机械臂关节RRT::collisionCheck2    机械臂末端障碍检测RRT::collisionCheck
+
+均可根据自己的需要修改
+
 使用方法（以amber_gui_5_node为例子）：
 
 1、进入路径/amber_gui_5_node/cmake-build-debug/
@@ -14,11 +23,3 @@
   3.3终端中输入"【】"中的内容：【make】
   
   3.4终端中输入"【】"中的内容：【./amber_gui_5_node】
-
-其中gui_5_node的代码中包含了机械臂动态避障的部分(rrt算法进行末端避碰+障碍检测+执行)
-
-其中，rrt算法寻路部分为RRT::planning
-
-障碍检测   七轴机械臂关节RRT::collisionCheck2    机械臂末端障碍检测RRT::collisionCheck
-
-均可根据自己的需要修改
