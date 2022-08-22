@@ -1,6 +1,6 @@
 These are the C++ examples based on the AMBER UDP protocl, the number in the file name is the command number in UDP protocol.
 
-UDP protocol link：https://github.com/AmberInside/Amber_AI_ROS2/wiki/Protocol--for-AMBER-B1--SDK-&-APIs 
+UDP protocol link：https://github.com/MrAsana/AMBER_B1_ROS2/wiki/SDK-&-API---UDP-Ethernet-Protocol--for-controlling-&-programing 
 
 ** A example for NRT(Rapidly Random Tree) motion planning of a robotic arm algorithm for tool in the gui_5_node files.
 
