@@ -1,7 +1,6 @@
 该文件夹为AMBER B1的UDP通信协议开发文档里，示例代码名称中的数字即为各命令编号。
 
-UDP通信协议文档参见：https://github.com/AmberInside/Amber_AI_ROS2/wiki/Protocol--for-AMBER-B1--SDK-&-APIs
-
+UDP通信协议文档参见：https://github.com/MrAsana/AMBER_B1_ROS2/wiki/SDK-&-API---UDP-Ethernet-Protocol--for-controlling-&-programing
 其中gui_5_node的代码中包含了机械臂动态避障的部分(rrt算法进行末端避碰+障碍检测+执行)
 
 其中，rrt算法寻路部分为RRT::planning
