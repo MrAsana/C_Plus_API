@@ -24,3 +24,5 @@ UDP通信协议文档参见：https://github.com/MrAsana/AMBER_B1_ROS2/wiki/SDK-
   3.3终端中输入"【】"中的内容：【make】
   
   3.4终端中输入"【】"中的内容：【./amber_gui_5_node】
+
+testtesttest
